@@ -7,11 +7,11 @@ A circular leasing app for e-bikes, laptops and farm machines, built at the Nort
 
 ## Team
 
-| Name               | GitHub      | Main focus                                                                                                 |
-| ------------------ | ----------- | ---------------------------------------------------------------------------------------------------------- |
-| Joonas Tuomi       | `jotuel`    | Reservations and longer-term offers, contract and invoice UI, end of term and second life, database wiring |
-| Niklas Raatikainen | `patsastus` | Question flow and eligibility, fair early exit, catalogue filters                                          |
-| `pinguuiin`        | `pinguuiin` | Lifecycle database models, architecture docs, money core                                                   |
+| Name         | Main focus                                                                                                 |
+| ------------ | ---------------------------------------------------------------------------------------------------------- |
+| jotuel       | Reservations and longer-term offers, contract and invoice UI, end of term and second life, database wiring |
+| patsastus    | Question flow and eligibility, fair early exit, catalogue filters                                          |
+| pinguuiin    | Lifecycle database models, architecture docs, money core                                                   |
 
 ## The Spine
 
